@@ -12,7 +12,8 @@ W fazie projektowania (hardware), funkcjonalny kod do poruszania modelem STL na 
 
 <p align="center">
   <img src="image (9).png" alt="rys" width="400">
-</p>
+</p> 
+
 ## Funkcje
 - [x] Detekcja dłoni (MediaPipe)
 - [x] Sterowanie modelem STL (obrót i skalowanie)
