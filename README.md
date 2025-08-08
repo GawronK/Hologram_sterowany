@@ -3,6 +3,8 @@
 ## Opis
 Projekt interaktywnego wyświetlacza holograficznego oparty na Raspberry Pi 4, kamerze Pi i piramidzie z plexi. Model STL (np. kaczka) jest sterowany ruchem dłoni wykrywanym przez kamerę i bibliotekę MediaPipe.
 
+Inspiracja: https://www.youtube.com/shorts/IujtPcEVo_s
+
 ## Status projektu
 W fazie projektowania (hardware), funkcjonalny kod do poruszania modelem STL na podstawie ruchu dłoni.
 
