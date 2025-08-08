@@ -7,11 +7,11 @@ Projekt interaktywnego wyświetlacza holograficznego oparty na Raspberry Pi 4, k
 W fazie projektowania (hardware), funkcjonalny kod do poruszania modelem STL na podstawie ruchu dłoni.
 
 <p align="center">
-  <img src="image (10).png" alt="rys" width="400">
+  <img src="image (10).png" alt="rys" width="800">
 </p>
 
 <p align="center">
-  <img src="image (9).png" alt="rys" width="400">
+  <img src="image (9).png" alt="rys" width="800">
 </p> 
 
 ## Funkcje
